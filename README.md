@@ -1,0 +1,2 @@
+# Extracting_Data_from_XML
+Assignment: Create a program to prompt for a URL, read the XML data from that URL using urllib and then parse and extract the comment counts from the XML data, compute the sum of the numbers in the file. The data consists of a number of &lt;name>s and comment &lt;count>s in XML. You are to look through all the &lt;comment> tags and find the &lt;count> values and sum the numbers, Data: http://py4e-data.dr-chuck.net/comments_276966.xml. From 'Python for Everybody' University of Michigan course via Coursera.
